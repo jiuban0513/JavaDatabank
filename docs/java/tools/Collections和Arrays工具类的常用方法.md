@@ -15,7 +15,7 @@
         - [复制 `copyOf()`](#复制-copyof)
 <!-- /TOC -->
 
-#Collections和Arrays的常用方法。
+# Collections和Arrays的常用方法。
 
 
 ## Collections
