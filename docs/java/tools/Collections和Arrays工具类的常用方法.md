@@ -1,6 +1,6 @@
 <!-- TOC -->
 主要参考[Collections 工具类和 Arrays 工具类常见方法](https://github.com/Snailclimb/JavaGuide/blob/master/docs/java/Basis/Arrays%2CCollectionsCommonMethods.md)和[操作集合的工具类：Collections](https://www.cnblogs.com/jycboy/p/collections.html)和[Java-Arrays类常用方法详解](https://blog.csdn.net/goodbye_youth/article/details/81003817)
-- [Collections 工具类和 Arrays 工具类常见方法](#collections-工具类和-arrays-工具类常见方法)
+- [Collections 工具类和 Arrays 工具类常见方法](#Collections和Arrays的常用方法。)
     - [Collections](#collections)
         - [排序操作](#排序操作)
         - [查找,替换操作](#查找替换操作)
