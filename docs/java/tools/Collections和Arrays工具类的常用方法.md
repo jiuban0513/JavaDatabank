@@ -5,6 +5,7 @@
         - [排序操作](#排序操作)
         - [查找,替换操作](#查找替换操作)
         - [同步控制](#同步控制)
+        - [Java Collections.EMPTY_LIST 和 Collections.emptyList()的区别](#Java-Collections.EMPTY_LIST-和-Collections.emptyList()的区别)
     - [Arrays类的常见操作](#arrays类的常见操作)
         - [排序 : `sort()`](#排序--sort)
         - [查找 : `binarySearch()`](#查找--binarysearch)
@@ -255,6 +256,20 @@ unmodifiableXxx(): 返回指定集合对象的不可变视图，此处的集合�
 //        arrayLists.add(arrayList);
 //        integers.add(1);
 ```
+
+### [Java Collections.EMPTY_LIST 和 Collections.emptyList()的区别](https://blog.csdn.net/liyuming0000/article/details/49474659)
+
+Collections.EMPTY_LIST返回的是一个空的List。为什么需要空的List呢？
+有时候我们在函数中需要返回一个List，但是这个List是空的，
+如果我们直接返回null的话，调用者还需要进行null的判断，所以一般建议返回一个空的List。
+Collections.EMPTY_LIST返回的这个空的List是不能进行添加元素这类操作的。
+
+这时候你有可能会说，我直接返回一个new ArrayList()呗，但是new ArrayList()在初始化时会占用一定的资源，
+所以在这种场景下，还是建议返回Collections.EMPTY_LIST。
+
+Collections. emptyList()返回的也是一个空的List，它与Collections.EMPTY_LIST的唯一区别是，Collections. emptyList()支持泛型，所以在需要泛型的时候，可以使用Collections. emptyList()。
+
+Collections.EMPTY_MAP和Collections.EMPTY_SET同理。
 
 ## Arrays类的常见操作
 简介：Arrays类位于 java.util 包中，主要包含了操纵数组的各种方法。
