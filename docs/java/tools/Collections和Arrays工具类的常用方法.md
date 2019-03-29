@@ -5,7 +5,8 @@
         - [排序操作](#排序操作)
         - [查找,替换操作](#查找替换操作)
         - [同步控制](#同步控制)
-        - [Java Collections.EMPTY_LIST 和 Collections.emptyList()的区别](#Java-Collections.EMPTY_LIST-和-Collections.emptyList()的区别)
+        - [Collections还可以设置不可变集合](#Collections还可以设置不可变集合，提供了如下三类方法：)
+        - [Java Collections.EMPTY_LIST 和 Collections.emptyList()的区别](#区别)
     - [Arrays类的常见操作](#arrays类的常见操作)
         - [排序 : `sort()`](#排序--sort)
         - [查找 : `binarySearch()`](#查找--binarysearch)
@@ -257,7 +258,8 @@ unmodifiableXxx(): 返回指定集合对象的不可变视图，此处的集合�
 //        integers.add(1);
 ```
 
-### [Java Collections.EMPTY_LIST 和 Collections.emptyList()的区别](https://blog.csdn.net/liyuming0000/article/details/49474659)
+### 区别  
+[Java Collections.EMPTY_LIST 和 Collections.emptyList()的区别](https://blog.csdn.net/liyuming0000/article/details/49474659)
 
 Collections.EMPTY_LIST返回的是一个空的List。为什么需要空的List呢？
 有时候我们在函数中需要返回一个List，但是这个List是空的，
