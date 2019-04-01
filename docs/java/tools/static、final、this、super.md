@@ -105,7 +105,6 @@ public class Sub extends Super {
 被 static 修饰的成员属于类，不属于单个这个类的某个对象，被类中所有对象共享。而 this 代表对本类对象的引用，指向本类对象；而 super 代表对父类对象的引用，指向父类对象；所以， **this和super是属于对象范畴的东西，而静态方法是属于类范畴的东西**。
 
 
-
 ## 参考
 
 - https://www.codejava.net/java-core/the-java-language/java-keywords
@@ -342,9 +341,9 @@ public class Test {
 
 非静态代码块与构造函数的区别是： 非静态代码块是给所有对象进行统一初始化，而构造函数是给对应的对象初始化，因为构造函数是可以多个的，运行哪个构造函数就会建立什么样的对象，但无论建立哪个对象，都会先执行相同的构造代码块。也就是说，构造代码块中定义的是不同对象共性的初始化内容。 
 
-### 参考
+## 参考
 
-- httpsblog.csdn.netchen13579867831articledetails78995480
-- httpwww.cnblogs.comchenssyp3388487.html
-- httpwww.cnblogs.comQian123p5713440.html
-    
+- https://blog.csdn.net/chen13579867831/article/details/78995480
+- http://www.cnblogs.com/chenssy/p/3388487.html
+- http://www.cnblogs.com/Qian123/p/5713440.html
+   
