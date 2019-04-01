@@ -1,3 +1,21 @@
+<!-- TOC -->
+- [Collection](#一：Collection)
+    - [List](#1.-List)
+        - [ArrayList](#（1）Arraylist：)
+        - [Vectors](#（2）Vector：)
+        - [LinkedList](#（3）LinkedList：)
+    - [Set](#2.-Set)
+        - [HashSet](#（1）HashSet（无序，唯一）)
+        - [LinkedHashSet](#（2）LinkedHashSet： )
+        - [TreeSet](#（3）TreeSet（有序，唯一）： )
+- [Map](#二：Map)
+     - map
+        - [HashMap](#（1）HashMap： )
+        - [LinkedHashMap](#（2）LinkedHashMap: )
+        - [HashTable](#（3）HashTable: )
+        - [TreeMap](#（4）TreeMap:)
+<!-- /TOC -->
+
 JAVA集合框架底层数据结构总结
 
  ![Image.text](https://raw.githubusercontent.com/jiuban0513/JavaDatabank/master/image/java%E9%9B%86%E5%90%88%E6%A1%86%E6%9E%B6.jpg)
@@ -104,5 +122,6 @@ JAVA集合框架底层数据结构总结
 
 	
 
-###（4）TreeMap: 红黑树（自平衡的排序二叉树）
+###（4）TreeMap:
+ 红黑树（自平衡的排序二叉树）
 
