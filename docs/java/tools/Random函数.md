@@ -34,7 +34,7 @@ public class TestRandom {
 }
 ```
 
-##二、java.util.Random
+## 二、java.util.Random
 
 　　下面Random()的两种构造方法：
 
