@@ -72,3 +72,15 @@
 ### operating income 操作系统
 1. [后端程序员必备的Linux基础知识](https://github.com/jiuban0513/JavaDatabank/blob/master/docs/operating%20income/%E5%90%8E%E7%AB%AF%E7%A8%8B%E5%BA%8F%E5%91%98%E5%BF%85%E5%A4%87%E7%9A%84Linux%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.md)
 
+##2019.4.8
+添加：
+1. [Random函数]()
+2. [static关键字详解]()
+3. [Math函数]()
+4. [Java泛型详解]()
+5. [Java枚举常见用法]()
+6. [Java注解的解析]()
+
+更新：
+1. [static、final、this、super关键字.md]()
+
