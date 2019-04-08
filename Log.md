@@ -1,9 +1,9 @@
-##2019.3.29
+## 2019.3.29
 
 1. [整理Collections和Arrays工具类的常规使用。](https://github.com/jiuban0513/JavaDatabank/blob/master/docs/java/tools/Collections%E5%92%8CArrays%E5%B7%A5%E5%85%B7%E7%B1%BB%E7%9A%84%E5%B8%B8%E7%94%A8%E6%96%B9%E6%B3%95.md)
 （看完整理过，记得复习）
 
-##2019.4.1
+## 2019.4.1
 
 1. [整理static、final、super、this关键字的介绍。](https://github.com/jiuban0513/JavaDatabank/blob/master/docs/java/tools/static%E3%80%81final%E3%80%81this%E3%80%81super.md)
 （看完整理过，记得复习）
@@ -25,9 +25,9 @@
 8. [LinkedList]()
 
 
-##2019.4.4
+## 2019.4.4
 
-###alone-knoledge 单独列举的知识点
+### alone-knoledge 单独列举的知识点
     
 1. [==和equals](https://github.com/jiuban0513/JavaDatabank/blob/master/docs/java/alone-knowledge/%3D%3D%E5%92%8Cequals.md)
 2. [hashCode和equals](https://github.com/jiuban0513/JavaDatabank/blob/master/docs/java/alone-knowledge/hashCode%E5%92%8Cequals.md)
@@ -72,7 +72,7 @@
 ### operating income 操作系统
 1. [后端程序员必备的Linux基础知识](https://github.com/jiuban0513/JavaDatabank/blob/master/docs/operating%20income/%E5%90%8E%E7%AB%AF%E7%A8%8B%E5%BA%8F%E5%91%98%E5%BF%85%E5%A4%87%E7%9A%84Linux%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.md)
 
-##2019.4.8
+## 2019.4.8
 添加：
 1. [Random函数]()
 2. [static关键字详解]()
