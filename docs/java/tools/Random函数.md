@@ -1,7 +1,7 @@
 <!-- TOC -->
 - [Java中存在着两种Random函数](#Java中存在着两种Random函数)
-    - [java.lang.Math.Random](#一、java.lang.Math.Random)
-    - [java.util.Random](#二、java.util.Random)
+    - [java.lang.Math.Random](#一java.lang.Math.Random)
+    - [java.util.Random](#二java.util.Random)
    
  - [参考资料](#参考资料：)
 <!-- /TOC -->
