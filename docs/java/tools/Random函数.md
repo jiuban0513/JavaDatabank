@@ -6,9 +6,9 @@
  - [参考资料](#参考资料：)
 <!-- /TOC -->
 
-#Java中存在着两种Random函数：
+# Java中存在着两种Random函数：
 
-##一、java.lang.Math.Random;
+## 一、java.lang.Math.Random;
 
 　　调用这个Math.Random()函数能够返回带正号的double值，该值大于等于0.0且小于1.0，即取值范围是[0.0,1.0)的左闭右开区间，返回值是一个伪随机选择的数，在该范围内（近似）均匀分布。例子如下：
 
@@ -164,5 +164,5 @@ void setSeed(long seed)：使用单个 long 种子设置此随机数生成器的
 　　　　n2 = Math.abs(r.nextInt() % 10);//方法二
 ```
 
-##参考资料：
+## 参考资料：
 [JAVA中的Random()函数](https://www.cnblogs.com/ningvsban/p/3590722.html)

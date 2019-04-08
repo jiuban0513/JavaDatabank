@@ -1,6 +1,6 @@
 
 
-##Math常用函数汇总：
+## Math常用函数汇总：
 
 ```java
 Math.E                          //自然常数e=2.7182818284590452354
@@ -90,5 +90,5 @@ Math.toRadians(angdeg);         //弧度转换成角度，返回：angdeg / 180d
 
 ``` 
 
-##参考资料：
+## 参考资料：
 [java中Math常用的数学函数](https://blog.csdn.net/shangming150/article/details/78617808)
