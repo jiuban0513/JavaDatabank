@@ -235,6 +235,9 @@ AOF重写是一个有歧义的名字，该功能是通过读取数据库中的�
 - [Redis持久化](Redis持久化.md)
 
 
+注：[redis两种持久化方式的优缺点](https://www.baidu.com/link?url=vhaDsW3fgd_lmTpKI6hJwM5mCqwdAgkQ0AW6IO0Eqek3NnG_OnyYbVxjgQfUDL3028qvyK8XA5G_vH96ifh0lK&wd=&eqid=bce0f3a600010ae5000000025cc53b8d)
+
+
 ### redis 事务
 
 Redis 通过 MULTI、EXEC、WATCH 等命令来实现事务(transaction)功能。事务提供了一种将多个命令请求打包，然后一次性、按顺序地执行多个命令的机制，并且在事务执行期间，服务器不会中断事务而改去执行其他客户端的命令请求，它会将事务中的所有命令都执行完毕，然后才去处理其他客户端的命令请求。
